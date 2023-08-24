@@ -1,4 +1,3 @@
-import time
 from time import sleep
 
 user_animal = str(input("Enter the name of your favorite pet >> ")).strip('0`:;-=+_123456789,./ !@#$%^&*()[}{]')
